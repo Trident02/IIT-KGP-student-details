@@ -6,7 +6,7 @@ URLS = [
 	'https://erp.iitkgp.ac.in/StudentPerformanceV2/auth/getCaptchaCode.htm',
 	'https://erp.iitkgp.ac.in/StudentPerformanceV2/auth/PassImageServlet/{}',
 	'https://erp.iitkgp.ac.in/StudentPerformanceV2/auth/authenticate.htm',
-	'https://erp.iitkgp.ac.in/StudentPerformanceV2/secure/StudentPerfDtls.htm?rollno={}'
+	
 ]
 CAPTCHA_IMG = 'captcha.jpeg'
 JSON_CONTENT = 'json/application;charset=ISO-8859-1'
